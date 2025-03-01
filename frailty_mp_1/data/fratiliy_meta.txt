@@ -1,0 +1,9 @@
+Dataset: Frailty Study Dataset
+Source: Hypothetical Study - Female Participants
+Description: This dataset contains height, weight, age, grip strength, and frailty indicators.
+Columns:
+- Height: Participant height (Float, Inches)
+- Weight: Participant weight (Float, Pounds)
+- Age: Participant age (Integer, Years)
+- Grip strength: Hand grip strength (Float, Kilograms)
+- Frailty: Frailty status (String, Y=Yes, N=No)
